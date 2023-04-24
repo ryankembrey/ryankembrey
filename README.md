@@ -4,5 +4,5 @@ I am a student in Australia studying a bachelor of mechanical engineering, with 
 
 ## Skills
 - Solidworks
-- Python, Arduino
+- Python, Arduino, Bash
 - GNU/Linux, Windows, MacOS
